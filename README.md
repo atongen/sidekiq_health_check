@@ -3,6 +3,8 @@
 Exposes an http endpoint that can be used to check for the number of sidekiq processes
 running on a server.
 
+See [cmd_health_check](https://github.com/atongen/cmd_health_check) for a more general version of the same app.
+
 ## Install
 
 Download the [latest release](https://github.com/atongen/sidekiq_health_check/releases), extract it,
